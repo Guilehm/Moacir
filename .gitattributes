@@ -1,4 +1,5 @@
 CellOn-doc/* linguist-vendored=true
+css/* linguist-vendored=true
 *.css linguist-vendored=true
 *.php linguist-vendored=true
 *.js linguist-vendored=true
